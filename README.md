@@ -1,17 +1,54 @@
-Hi, I'm Panchami Satheesan 👋
+# 👋 Hi, I'm Panchami Satheesan
 
-As a developer, I love building AI-powered systems and turning data into meaningful insights.
+💻 *AI & Data Enthusiast | M.Sc. Applied Computer Science Student*
 
-🎓 I'm an M.Sc. Applied Computer Science student at Hochschule Schmalkalden, Germany.
+🎓 Studying *Applied Computer Science* at *Hochschule Schmalkalden, Germany*.
 
-🔗 Check my professional profile on [LinkedIn](https://linkedin.com/in/panchami-shiv)
+I enjoy building *AI-powered applications, working with **LLMs, and turning **data into meaningful insights*.
 
-🤖 I build RAG pipelines, LLM-based apps, and ML analytics platforms using Python, HuggingFace,       and FAISS.
+---
 
-🎙️ I built an AI Voice Assistant that runs a full LLM pipeline on a Raspberry Pi — from speech-to-     text to GPT response to audio output.
+## 🚀 What I Do
 
-🛠️ Built projects such as UniCourse Explorer — an LLM-based semantic document retrieval system,        and Inbox Intel — an ML analytics dashboard on the Enron email dataset.
+- 🤖 Build *LLM-based applications and RAG pipelines*
+- 📊 Develop *ML analytics platforms*
+- 🛠 Work with *Python, HuggingFace, FAISS, SQL, and REST APIs*
+- 👯 Open to collaborating on *AI/ML and full-stack projects*
 
-👯 I'm looking to collaborate on AI/ML or full-stack software projects with curious and driven        developers.
+---
 
-Ask me about Python, SQL, Git, REST APIs, Web Development, Data Analysis, Machine Learning basics, RAG,Azure,Agile management,....
+## 🔬 Projects
+
+*🎙 AI Voice Assistant (Raspberry Pi)*  
+A local voice assistant running a full *LLM pipeline* from speech recognition to audio response.
+
+*📚 UniCourse Explorer*  
+An *LLM-powered semantic search system* for university course documents using *FAISS and embeddings*.
+
+*📊 Inbox Intel*  
+An *ML analytics dashboard* built on the *Enron email dataset*.
+
+---
+
+## 🛠 Tech Stack
+
+*Languages:* Python, SQL, JavaScript  
+*AI/ML:* HuggingFace, FAISS, Scikit-learn, RAG  
+*Tools:* Git, REST APIs, Docker  
+*Cloud:* Azure  
+*Workflow:* Agile
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PanchamiShiv&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanchamiShiv&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/panchami-shiv/
