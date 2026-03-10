@@ -42,9 +42,9 @@ An *ML analytics dashboard* built on the *Enron email dataset*.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PanchamiShiv&show_icons=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PanchamiShiv&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanchamiShiv&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PanchamiShiv&theme=dark)
 
 ---
 
